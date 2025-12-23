@@ -4,7 +4,7 @@ This repository contains markdown conversions of government-released documents r
 
 ## About
 
-All documents have been processed through Mistral OCR, which is currently the best document-aware processing system available. The OCR is context-aware and can recognize redactions and other document features, providing a more easily parsable unstructured dataset than the traditional OCR that shipped with the government's released documents.
+All documents have been processed through Mistral OCR, which is (in my testing) currently the best document-aware processing system available. The OCR is context-aware and can recognize redactions and other document features, providing a more easily parsable unstructured dataset than the traditional OCR that shipped with the government's released documents.
 
 ## Sources
 
